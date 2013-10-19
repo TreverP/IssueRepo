@@ -1,0 +1,80 @@
+/*
+*
+* Custom Styling for Projects
+* @author Trever Pehrson
+*
+*/
+#table {
+  margin-top: 30px;
+}
+#tag {
+  padding-top: 15px;
+}
+#addBtn {
+  margin-top: 40px;
+  margin-bottom: 25px;
+}
+/* Modal Attributes */
+#name,
+#key {
+  width: 250px;
+  height: 28px;
+}
+#keyLabel,
+#nameLabel {
+  margin-right: -5px;
+}
+/* Modal text field small print*/
+.description {
+  color: #999999;
+  font-size: 9pt;
+  height: 20px;
+  width: 330px;
+  margin-top: -15px;
+  margin-bottom: 5px;
+  padding-left: 130px;
+}
+#nameDesc {
+  margin-bottom: 10px;
+}
+.modal {
+  margin-top: 10%;
+}
+.modal-body {
+  width: 550px;
+  margin-right: -200px;
+}
+.modal-backdrop {
+  background-color: rgba(25, 25, 25, 0.8);
+}
+.modal-header {
+  border-bottom: 1px solid #cccccc;
+  background-color: #ededed;
+}
+.modal-dialog {
+  width: 850px;
+}
+.modal-footer {
+  border-top: 1px solid #cccccc;
+  background-color: #ededed;
+  margin-top: 115px;
+}
+#project-description-wrapper {
+  float: right;
+}
+/* Table elements */
+.label-primary {
+  padding: 7px 20px;
+}
+.label-danger {
+  padding: 7px 47px;
+}
+.label-warning {
+  padding: 7px 25px;
+}
+.label-info {
+  padding: 7px 25px;
+}
+.label-success {
+  padding: .7em 1.5em;
+}
